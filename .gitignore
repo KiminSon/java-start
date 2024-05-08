@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+/.idea/
+/out/
+java-start.iml/
